@@ -5,4 +5,7 @@ import numpy
 def hello():
     print("Hello")
 
+def test():
+    pass
+
 hello()
